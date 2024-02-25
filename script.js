@@ -29,6 +29,8 @@ function goTown() {
 		'You are in the town square. You see a sign that says "Store".';
 }
 
+function update(location) {}
+
 function goStore() {
 	button1.innerText = "You enter the store.";
 	button2.innerText = "Buy weapon (30 gold)";
