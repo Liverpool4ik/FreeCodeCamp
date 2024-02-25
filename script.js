@@ -30,7 +30,7 @@ function goTown() {
 }
 
 function update(location) {}
-
+const locations = [];
 function goStore() {
 	button1.innerText = "You enter the store.";
 	button2.innerText = "Buy weapon (30 gold)";
